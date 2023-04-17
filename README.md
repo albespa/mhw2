@@ -27,7 +27,7 @@ Any use must be authorized by the creator.
 
 Alberto Spadaro - [@albespa](https://instagram.com/albespa) - albertospadaro@live.it
 
-Project Link: [https://github.com/albespa/mhw1](https://github.com/albespa/mhw1)
+Project Link: [https://github.com/albespa/mhw2](https://github.com/albespa/mhw2)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
